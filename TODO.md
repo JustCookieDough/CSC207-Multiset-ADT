@@ -22,8 +22,8 @@
     - delete\_item \[Scott\]
     - \_delete\_root \[Scott\]
     - \_extract\_leaf \[Scott\]
-    - insert
-    - insert\_child
+    - insert \[Scott\]
+    - insert\_child \[Scott\]
 - TreeMultiSet.java
     - __init__
     - add
