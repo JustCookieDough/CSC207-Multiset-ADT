@@ -18,10 +18,10 @@
     - \_average\_helper
     - \_\_eq\_\_
     - \_\_contains\_\_
-    - leaves
-    - delete\_item
-    - \_delete\_root
-    - \_extract\_leaf
+    - leaves \[Scott\]
+    - delete\_item \[Scott\]
+    - \_delete\_root \[Scott\]
+    - \_extract\_leaf \[Scott\]
     - insert
     - insert\_child
 - TreeMultiSet.java
