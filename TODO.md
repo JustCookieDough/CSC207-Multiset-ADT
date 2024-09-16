@@ -1,0 +1,35 @@
+### TODO
+
+- MutliSet.java
+    - add
+    - remove
+    - contains
+    - is\_empty
+    - count
+    - size
+- Tree.java
+    - \_\_init\_\_
+    - is\_empty
+    - \_\_len\_\_
+    - count
+    - \_\_str\_\_
+    - \_str\_indented
+    - average
+    - \_average\_helper
+    - \_\_eq\_\_
+    - \_\_contains\_\_
+    - leaves
+    - delete\_item
+    - \_delete\_root
+    - \_extract\_leaf
+    - insert
+    - insert\_child
+- TreeMultiSet.java
+    - __init__
+    - add
+    - remove
+    - contains
+    - is_empty
+    - count
+    - size
+- Main.java
