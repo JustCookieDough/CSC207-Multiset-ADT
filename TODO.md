@@ -1,9 +1,9 @@
 ### TODO
 
 - MutliSet.java
-    - add
-    - remove
-    - contains
+    - add [Hrunt]
+    - remove [Hrunt]
+    - contains [Hrunt]
     - is\_empty
     - count
     - size
