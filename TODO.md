@@ -8,12 +8,12 @@
     - count
     - size
 - Tree.java
-    - \_\_init\_\_
-    - is\_empty
-    - \_\_len\_\_
+    - \_\_init\_\_ [Steven]
+    - is\_empty [Steven]
+    - \_\_len\_\_ [Steven]
     - count [Denis]
-    - \_\_str\_\_
-    - \_str\_indented
+    - \_\_str\_\_ [Steven]
+    - \_str\_indented [Steven]
     - average [Denis]
     - \_average\_helper [Denis]
     - \_\_eq\_\_ [Denis]
