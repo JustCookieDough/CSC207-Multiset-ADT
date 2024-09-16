@@ -1,6 +1,6 @@
 public class Tree {
     // TODO complete this Tree class to replicate the implementation from the Tree class in adts.py
-    
+
     /*
     FUNCTIONS TO IMPLEMENT:
     - __init__
@@ -20,4 +20,14 @@ public class Tree {
     - insert
     - insert_child
     * */
+
+    public int[] leaves() {
+        if (this.isEmpty()) {
+            return new int[] {};
+        } else if (this.subtress.size() == 0) {
+            return new int[] {self.root} 
+        } else {
+            throw new Exception("write this dumdum")
+        }
+    }
 }
