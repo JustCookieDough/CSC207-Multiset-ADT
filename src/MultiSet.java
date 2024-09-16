@@ -10,5 +10,13 @@ public abstract class MultiSet {
      */
     abstract void add(Integer item);
 
-    // TODO finish adding abstract methods to fully describe what it means to be a MultiSet.
+    /*
+    FUNCTIONS TO IMPLEMENT:
+    - add
+    - remove
+    - contains
+    - is_empty
+    - count
+    - size
+     */
 }
