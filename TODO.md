@@ -11,13 +11,13 @@
     - \_\_init\_\_
     - is\_empty
     - \_\_len\_\_
-    - count
+    - count [Denis]
     - \_\_str\_\_
     - \_str\_indented
-    - average
-    - \_average\_helper
-    - \_\_eq\_\_
-    - \_\_contains\_\_
+    - average [Denis]
+    - \_average\_helper [Denis]
+    - \_\_eq\_\_ [Denis]
+    - \_\_contains\_\_ [Denis]
     - leaves \[Scott\]
     - delete\_item \[Scott\]
     - \_delete\_root \[Scott\]
