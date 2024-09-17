@@ -11,7 +11,7 @@
     - ~~\_\_init\_\_ [Steven]~~ (srry, did these for you cause i wanted to make sure my references were good -scott)
     - ~~is\_empty [Steven]~~
     - \_\_len\_\_ [Steven]
-    - count [Denis]
+    - ~~count [Denis]~~
     - \_\_str\_\_ [Steven]
     - \_str\_indented [Steven]
     - average [Denis]

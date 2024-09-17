@@ -36,6 +36,28 @@ public class Tree {
         return root == null;
     }
 
+    public int count(int item) {
+        /*Return the number of occurrences of <item> in this tree.
+        >>> t = Tree(3, [Tree(4, []), Tree(1, [])])
+        >>> t.count(3)
+        1
+        >>> t.count(100)
+        0
+        */
+        if (isEmpty()) {
+            return 0;
+        } else {
+            int num = 0;
+            if (root == item) {
+                num += 1;
+            }
+            for (Tree subtree : subtrees) {
+                num += subtree.count(item);
+            }
+            return num;
+        }
+    }
+
     public List<Integer> leaves() {
         if (isEmpty()) {
             return new ArrayList<>();
