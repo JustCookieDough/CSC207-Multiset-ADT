@@ -8,8 +8,8 @@
     - count
     - size
 - Tree.java
-    - \_\_init\_\_
-    - is\_empty
+    - ~~\_\_init\_\_~~
+    - ~~is\_empty~~
     - \_\_len\_\_
     - count
     - \_\_str\_\_
@@ -18,12 +18,12 @@
     - \_average\_helper
     - \_\_eq\_\_
     - \_\_contains\_\_
-    - leaves \[Scott\]
-    - delete\_item \[Scott\]
-    - \_delete\_root \[Scott\]
-    - \_extract\_leaf \[Scott\]
-    - insert \[Scott\]
-    - insert\_child \[Scott\]
+    - ~~leaves~~ \[Scott\]
+    - ~~delete\_item~~ \[Scott\]
+    - ~~\_delete\_root~~ \[Scott\]
+    - ~~\_extract\_leaf~~ \[Scott\]
+    - ~~insert \[Scott\]~~
+    - ~~insert\_child \[Scott\]~~
 - TreeMultiSet.java
     - __init__
     - add
