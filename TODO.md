@@ -1,29 +1,29 @@
 ### TODO
 
 - MutliSet.java
-    - add
-    - remove
-    - contains
+    - add [Hrunt]
+    - remove [Hrunt]
+    - contains [Hrunt]
     - is\_empty
     - count
     - size
 - Tree.java
-    - ~~\_\_init\_\_~~
-    - ~~is\_empty~~
-    - \_\_len\_\_
-    - count
-    - \_\_str\_\_
-    - \_str\_indented
-    - average
-    - \_average\_helper
-    - \_\_eq\_\_
-    - \_\_contains\_\_
-    - ~~leaves~~ \[Scott\]
-    - ~~delete\_item~~ \[Scott\]
-    - ~~\_delete\_root~~ \[Scott\]
-    - ~~\_extract\_leaf~~ \[Scott\]
-    - ~~insert \[Scott\]~~
-    - ~~insert\_child \[Scott\]~~
+    - \_\_init\_\_ [Steven]
+    - is\_empty [Steven]
+    - \_\_len\_\_ [Steven]
+    - count [Denis]
+    - \_\_str\_\_ [Steven]
+    - \_str\_indented [Steven]
+    - average [Denis]
+    - \_average\_helper [Denis]
+    - \_\_eq\_\_ [Denis]
+    - \_\_contains\_\_ [Denis]
+    - leaves \[Scott\]
+    - delete\_item \[Scott\]
+    - \_delete\_root \[Scott\]
+    - \_extract\_leaf \[Scott\]
+    - insert \[Scott\]
+    - insert\_child \[Scott\]
 - TreeMultiSet.java
     - __init__
     - add
